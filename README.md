@@ -37,7 +37,7 @@ Or application.css:
 ```
 
 ## Example
-The main HTML structure is a ```html <figure> ``` element containing our hero image (we used 3 different <img>s) and wrapped in a .cd-background-wrapper element.
+The main HTML structure is a ```<figure> ``` element containing our hero image (we used 3 different <img>s) and wrapped in a .cd-background-wrapper element.
 
 ```html
 <div class="cd-background-wrapper">
